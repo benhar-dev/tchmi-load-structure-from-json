@@ -17,6 +17,9 @@ in perpetuity.
 ## Overview 
 This is a simple example showing how to load client side json files in to a PLC structure.  
 
+## Video Tutorial
+There is a free coding byte video tutorial on this code which can be found [here](https://beckhoff-au.teachable.com/courses/coding-bytes-twincat-hmi/lectures/35610771)
+
 ## Getting Started
 Activate and run the PLC project.  Open Main.view in liveview, swap live view to a real browser (as normal live view does not support loading) and load the example.json file. 
 
