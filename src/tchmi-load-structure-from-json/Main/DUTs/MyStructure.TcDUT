@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <DUT Name="MyStructure" Id="{07dcead1-0a38-4eea-91f7-f7ca26714027}">
+    <Declaration><![CDATA[TYPE MyStructure :
+STRUCT
+	Name : STRING;
+	Age : INT;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
