@@ -147,6 +147,13 @@
     <Content Include="Scripts\LoadJson.js">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Scripts\SaveJson.function.json">
+      <SubType>Content</SubType>
+      <DependentUpon>Scripts\SaveJson.js</DependentUpon>
+    </Content>
+    <Content Include="Scripts\SaveJson.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Server\TcHmiLua\TcHmiLua.Config.default.json">
       <SubType>Content</SubType>
     </Content>

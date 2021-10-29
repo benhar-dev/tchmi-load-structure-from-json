@@ -53,6 +53,11 @@
       "name": "Scripts/LoadJson.js",
       "description": "",
       "type": "JavaScript"
+    },
+    {
+      "name": "Scripts/SaveJson.js",
+      "description": "",
+      "type": "JavaScript"
     }
   ],
   "userControls": [],
@@ -67,6 +72,9 @@
   "userFunctions": [
     {
       "url": "Scripts/LoadJson.js"
+    },
+    {
+      "url": "Scripts/SaveJson.js"
     }
   ],
   "symbols": {
